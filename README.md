@@ -1,1 +1,1 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2Fline-stickers-themes--576671927307984536%2F&psig=AOvVaw0GWm7EkFWBPAAQAhPnm6e9&ust=1766431301125000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiSicOzz5EDFQAAAAAdAAAAABAd" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VlbThicTEwdm42NXY3eG9qeDN0cGN6MHVzcDVyZGg3ZXNpdXpzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GaqnjVbSLs2uA/giphy.gif" width="200"/>
