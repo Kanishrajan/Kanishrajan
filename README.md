@@ -12,7 +12,7 @@
 
 ```javascript
 const kanish = {
-  name        : "Kanish Rajan Manikandan",
+  name        : "Kanishrajan Manikandan",
   location    : "Chennai, Tamil Nadu 🇮🇳",
   degree      : "B.E. Computer & Communication Engineering @ Sairam Institutions (2023–2027)",
   role        : "UI/UX Designer · Frontend Developer · Product Design Intern",
